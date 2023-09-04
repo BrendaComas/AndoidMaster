@@ -7,4 +7,22 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+
+
+
+
+    <color name="background_component">#686de0</color>
+    <color name="background_component_selected">#4834d4</color>
+    <color name="background_app">#8B3CA8</color>
+    <color name="background_buttom">#375FF1</color>
+    <color name="title_text">#fff</color>
+    <color name="background_fab">#FF6200EE</color>
+    <color name="background_dark">#2c2c54</color>
+    <color name="peso_bajo">#FFEB3B</color>
+    <color name="peso_normal">#4CAF50</color>
+    <color name="peso_sobrepeso">#FF5722</color>
+    <color name="peso_obesidad">#E60000</color>
+
 </resources>
