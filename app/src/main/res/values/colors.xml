@@ -12,7 +12,7 @@
 
 
 
-
+    <!--IMC APP-->
     <color name="background_component">#686de0</color>
     <color name="background_component_selected">#4834d4</color>
     <color name="background_app">#8B3CA8</color>
@@ -24,5 +24,19 @@
     <color name="peso_normal">#4CAF50</color>
     <color name="peso_sobrepeso">#FF5722</color>
     <color name="peso_obesidad">#E60000</color>
+
+
+
+    <!--TODOAPP-->
+    <!--TodoApp-->
+    <color name="todo_background_card">#b5df9c</color>
+    <color name="todo_background_disabled">#20409f</color>
+    <color name="todo_background_todo_app">#e2a5c0</color>
+    <color name="todo_subtitle_text">#170025</color>
+    <color name="todo_accent">#9055FA</color>
+
+    <color name="todo_business_category">#9C27B0</color>
+    <color name="todo_personal_category">#FF91E7</color>
+    <color name="todo_other_category">#9866F1</color>
 
 </resources>
