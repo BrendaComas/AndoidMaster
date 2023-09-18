@@ -29,14 +29,15 @@
 
     <!--TODOAPP-->
     <!--TodoApp-->
-    <color name="todo_background_card">#b5df9c</color>
-    <color name="todo_background_disabled">#20409f</color>
-    <color name="todo_background_todo_app">#e2a5c0</color>
-    <color name="todo_subtitle_text">#170025</color>
+    <color name="todo_background_card">#C1337A</color>
+    <color name="todo_background_disabled">#5E35B1</color>
+    <color name="todo_background_todo_app">#FB9FCE</color>
+    <color name="todo_subtitle_text">#fff</color>
     <color name="todo_accent">#9055FA</color>
+    <color name="todo_buttom">#c3de5f</color>
 
-    <color name="todo_business_category">#9C27B0</color>
-    <color name="todo_personal_category">#FF91E7</color>
-    <color name="todo_other_category">#9866F1</color>
+    <color name="todo_business_category">#BFFD7A</color>
+    <color name="todo_personal_category">#BFFD7A</color>
+    <color name="todo_other_category">#BFFD7A</color>
 
 </resources>

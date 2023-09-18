@@ -29,4 +29,10 @@
     <!--TODOAPP-->
     <string name="todo_title">Agenda y Tareas</string>
     <string name="todo_categories">Categorías</string>
+    <string name="todo_tasks">Tareas</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_others">Otros</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_add_task_button">Crear tarea</string>
 </resources>
